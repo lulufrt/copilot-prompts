@@ -27,3 +27,31 @@ Necessita visão analítica e comunicação clara de resultados
 Alta demanda em praticamente todos os setores, especialmente financeiro. 
 
 Oportunidades variam conforme região e nível de experiência.
+
+# Resultado do Agente 2 
+
+🧠 **MAPA DE SKILLS**
+
+CORE SKILLS (essenciais):
+
+SQL avançado (joins, subqueries, CTE, window functions)
+
+Python para análise de dados (Pandas, Numpy)
+
+Estatística aplicada a negócios
+
+**NICE-TO-HAVE (complementares):**
+
+Power BI ou Tableau
+
+Noções de Data Storytelling
+
+**FERRAMENTAS E TECNOLOGIAS:**
+
+SQL (PostgreSQL ou MySQL)
+
+Python
+
+Power BI
+
+Excel avançado
